@@ -1,0 +1,26 @@
+main(int:args) {
+
+	//declaro enteros	
+	int:entero1;
+	int:entero2;
+	int:entero3;
+	
+	//asignaciones
+	entero1=1111;
+	entero2=22-6;
+	entero3=2*600;
+	
+	//declaro flotantes
+	float:flotante1;
+	float:flotante2;
+
+	//asignaciones
+	flotante1=9.5/19+0.5+46.0;
+	flotante2=3.14159;
+	
+	//test de funcion
+	float test(bool:validar){
+		float:flotanteTest;
+		flotanteTest=65-5;
+	}	 
+}

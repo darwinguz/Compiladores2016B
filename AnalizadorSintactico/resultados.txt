@@ -1,0 +1,26 @@
+TABLA DE SÍMBOLOS
+19 entries
+
++-------+---------+------------------------------+
+|   -   |  TIPO   |        TOKEN = VALOR         |
++------------------------------------------------+
+| 1     |FLOTANTE |  flotanteTest = 60.000000
+| 2     |BOOLEANO |  validar = 0.000000
+| 3     |FLOTANTE |  flotante2 = 3.141590
+| 4     |FLOTANTE |  flotante1 = 47.000000
+| 5     | ENTERO  |  entero3 = 1200
+| 6     | ENTERO  |  entero2 = 16
+| 7     | ENTERO  |  entero1 = 1111
+| 8     | ENTERO  |  args = 0
+| 9     | PALABRA |  float
+| 10    | PALABRA |  int
+| 11    | PALABRA |  return
+| 12    | PALABRA |  print
+| 13    | PALABRA |  break
+| 14    | PALABRA |  for
+| 15    | PALABRA |  while
+| 16    | PALABRA |  do
+| 17    | PALABRA |  else
+| 18    | PALABRA |  if
+| 19    | PALABRA |  main
++-------+---------+------------------------------+

@@ -1,0 +1,27 @@
+TABLA DE SÍMBOLOS
+20 entries
+
++-------+---------+------------------------------+
+|   -   |  TIPO   |        TOKEN = VALOR         |
++-------+---------+------------------------------+
+| 1     | ENTERO  |  tr = 0
+| 2     |FLOTANTE |  dec = 0.000000
+| 3     | ENTERO  |  ent = 0
+| 4     | ENTERO  |  lolo = 0
+| 5     | CHAR    |  caracter = -80.000000
+| 6     |BOOLEANO |  validar = 0.000000
+| 7     | STRING  |  palabra = 16.000000
+| 8     |FLOTANTE |  decimal = 10.000000
+| 9     | ENTERO  |  args = 0
+| 10    | PALABRA |  float
+| 11    | PALABRA |  int
+| 12    | PALABRA |  return
+| 13    | PALABRA |  print
+| 14    | PALABRA |  break
+| 15    | PALABRA |  for
+| 16    | PALABRA |  while
+| 17    | PALABRA |  do
+| 18    | PALABRA |  else
+| 19    | PALABRA |  if
+| 20    | PALABRA |  main
++-------+---------+------------------------------+
